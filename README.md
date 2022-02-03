@@ -6,7 +6,7 @@ Minimal reproducable example of this issue: https://github.com/vercel/next.js/is
 
 1. Clone repo.
 1. Run `npm run dev`.
-1. Toggle the two `import process` lines in `pages/index.js` to see it working / not working.
+1. [Toggle the two `import process` lines in `pages/index.js`](https://github.com/manovotny/nextjs-node-protocol-bug/blob/main/pages/index.js#L5-L6) to see it working / not working.
 
 ## Errors
 
